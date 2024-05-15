@@ -9,4 +9,10 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="PinPadLibraryBP">
+      <HintPath>PinPadLibraryBP.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
